@@ -56,20 +56,6 @@
             }
         },
         {
-            "name": "春晓春饼",
-            "img": "http://qcloud.dpfile.com/pc/vUy-c0F8NgHpjSa6kz6I4UTtkQjyGqmmNEty_xAfkcW1pfE_D9NtmgzKCyAeQrryuoWgh6flEoCpotrIjLoTeQ.jpg",
-            "weight": 2,
-            "filter": {
-                "weather": {
-                    "code": ["300"],
-                    "temperature": {
-                        "high": 100,
-                        "low": -100
-                    }
-                }
-            }
-        },
-        {
             "name": "魏家凉皮",
             "img": "http://qcloud.dpfile.com/pc/FWlqQ7Cdfu-F3yBHNzLjFlDCcUD1UzQP508q8uW4cDa1pfE_D9NtmgzKCyAeQrryuoWgh6flEoCpotrIjLoTeQ.jpg",
             "weight": 2,
@@ -137,20 +123,6 @@
                         "low": -100
                     }
                 }
-            }
-        },
-        {
-            "name": "全面俱到",
-            "img": "http://qcloud.dpfile.com/pc/8KFd7hLwStPgN1Vc07uP9QflFzst3qgtPXtvqcRNJcDsACLn7pEL26qCOpLzWbOLuoWgh6flEoCpotrIjLoTeQ.jpg",
-            "weight": 1,
-            "filter": {
-		"weather": {
-                    "code": ["300"],
-                    "temperature": {
-			"high": 100,
-			"low": -100
-                    }
-		}
             }
         },
         {

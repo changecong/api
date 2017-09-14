@@ -152,6 +152,34 @@
                     }
                 }
             }
+        },
+        {
+            "name": "八斗鸡·中发宏家常菜",
+            "img": "http://p1.meituan.net/dpmerchantalbum/e6e6644f79ef2e186bae114f05c31e881851633.png%40240w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "weight": 1,
+            "filter": {
+                "weather": {
+                    "code": ["300"],
+                    "temperature": {
+                        "high": 100,
+                        "low": -100
+                    }
+                }
+            }
+        },
+        {
+            "name": "田老师",
+            "img": "http://p0.meituan.net/xianfu/408a0fb4876fdfde486f741315b1168b68431.png%40249w_249h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "weight": 1,
+            "filter": {
+                "weather": {
+                    "code": ["300"],
+                    "temperature": {
+                        "high": 100,
+                        "low": -100
+                    }
+                }
+            }
         }
     ]
 }

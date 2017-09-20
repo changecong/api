@@ -99,7 +99,7 @@
         },
         {
             "name": "B1 Food Court",
-            "img": "http://qcloud.dpfile.com/pc/WeNM3R7-kZJAjuLnD5sHeL8jZWLH1fDqn1ERwJpkh_nRYGyP8AybpPZbV1VuhnXg52lfszCzH6kCpIe1c2_41Q.jpg",
+            "img": "https://changecong.github.io/img/restaurants/b1.png",
             "weight": 14,
             "filter": {
                 "weather": {

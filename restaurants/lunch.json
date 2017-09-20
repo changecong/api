@@ -196,8 +196,8 @@
             }
         },
         {
-            "name": "We want better food",
-            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0b/89/34/d6/better-food-better-life.jpg",
+            "name": "wow",
+            "img": "https://changecong.github.io/img/restaurants/wow.png",
             "weight": 1,
             "filter": {
                 "weather": {

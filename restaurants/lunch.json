@@ -226,7 +226,7 @@
         {
             "name": "wow",
             "img": "https://changecong.github.io/img/restaurants/wow.png",
-            "weight": 1,
+            "weight": 5,
             "filter": {
                 "weather": {
                     "code": ["300"],

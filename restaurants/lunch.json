@@ -14,9 +14,9 @@
 	    }
 	},
 	{
-            "name": "云南砂锅过桥米线",
+            "name": "刀小蛮云南米线",
             "img": "https://changecong.github.io/img/restaurants/gqmx.png",
-            "weight": 17,
+            "weight": 19,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -30,7 +30,7 @@
 	{
             "name": "桂林米粉",
             "img": "https://changecong.github.io/img/restaurants/mf.png",
-            "weight": 11,
+            "weight": 10,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -72,7 +72,7 @@
         {
             "name": "一品三笑",
             "img": "https://changecong.github.io/img/restaurants/ypsx.png",
-            "weight": 12,
+            "weight": 10,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -86,7 +86,7 @@
         {
             "name": "KFC",
             "img": "https://changecong.github.io/img/restaurants/kfc.png",
-            "weight": 13,
+            "weight": 15,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -100,7 +100,7 @@
         {
             "name": "B1 Food Court",
             "img": "https://changecong.github.io/img/restaurants/b1.png",
-            "weight": 14,
+            "weight": 17,
             "filter": {
                 "weather": {
                     "code": [],
@@ -114,7 +114,7 @@
         {
             "name": "顺口溜",
             "img": "https://changecong.github.io/img/restaurants/qsszm.png",
-            "weight": 14,
+            "weight": 19,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -128,7 +128,7 @@
         {
             "name": "铁锅一居",
             "img": "https://changecong.github.io/img/restaurants/tgyj.png",
-            "weight": 11,
+            "weight": 10,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -142,7 +142,7 @@
         {
             "name": "馍饭传奇",
             "img": "https://changecong.github.io/img/restaurants/tgrjm.png",
-            "weight": 13,
+            "weight": 11,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -156,7 +156,7 @@
         {
             "name": "田老师",
             "img": "https://changecong.github.io/img/restaurants/tls.png",
-            "weight": 14,
+            "weight": 13,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -170,7 +170,7 @@
         {
             "name": "黄焖鸡米饭",
             "img": "https://changecong.github.io/img/restaurants/hmjmf.png",
-            "weight": 16,
+            "weight": 19,
             "filter": {
                 "weather": {
                     "code": ["300"],
@@ -184,7 +184,35 @@
         {
             "name": "兰州牛肉面",
             "img": "https://changecong.github.io/img/restaurants/nrm.png",
-            "weight": 12,
+            "weight": 11,
+            "filter": {
+                "weather": {
+                    "code": ["300"],
+                    "temperature": {
+                        "high": 100,
+                        "low": -100
+                    }
+                }
+            }
+        },
+        {
+            "name": "晋福缘面庄",
+            "img": "https://changecong.github.io/img/restaurants/nrm.png",
+            "weight": 10,
+            "filter": {
+                "weather": {
+                    "code": ["300"],
+                    "temperature": {
+                        "high": 100,
+                        "low": -100
+                    }
+                }
+            }
+        },
+        {
+            "name": "和合谷"
+            "img": "https://changecong.github.io/img/restaurants/nrm.png",
+            "weight": 20,
             "filter": {
                 "weather": {
                     "code": ["300"],

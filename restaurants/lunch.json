@@ -15,7 +15,7 @@
 	},
 	{
             "name": "刀小蛮云南米线",
-            "img": "https://changecong.github.io/img/restaurants/gqmx.png",
+            "img": "https://changecong.github.io/img/restaurants/dxmmx.png",
             "weight": 19,
             "filter": {
                 "weather": {
@@ -196,8 +196,8 @@
             }
         },
         {
-            "name": "晋福缘面庄",
-            "img": "https://changecong.github.io/img/restaurants/nrm.png",
+            "name": "晋佳苑面庄",
+            "img": "https://changecong.github.io/img/restaurants/jjy.png",
             "weight": 10,
             "filter": {
                 "weather": {
@@ -211,7 +211,7 @@
         },
         {
             "name": "和合谷"
-            "img": "https://changecong.github.io/img/restaurants/nrm.png",
+            "img": "https://changecong.github.io/img/restaurants/hhg.png",
             "weight": 20,
             "filter": {
                 "weather": {

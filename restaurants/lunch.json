@@ -16,7 +16,7 @@
 	{
             "name": "刀小蛮云南米线",
             "img": "https://changecong.github.io/img/restaurants/dxmmx.png",
-            "weight": 19,
+            "weight": 18,
             "filter": {
                 "weather": {
                     "code": ["300"],

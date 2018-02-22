@@ -1,6 +1,6 @@
 {
     "restaurants":[{
-	    "name": "新年快乐！狗年大吉!",
+	    "name": "狗年大吉",
 	    "img": "https://changecong.github.io/img/restaurants/gndj.png",
 	    "weight": 1,
 	    "filter": {
